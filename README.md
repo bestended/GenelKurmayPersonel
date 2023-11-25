@@ -1,5 +1,5 @@
 # GenelKurmayPersonel
-Ajax Kullanımı
+(Ajax Kullanımı)
 GenelKurmay Personel Kayıt Sistemi isimli bu projede 
 Ajax mimarisi kullanarak sayfanın sadece belli kısımlarının 
 server a gönderilmesini sağladım.Login ve SignUp işlemleri
